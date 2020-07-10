@@ -1257,7 +1257,7 @@ def pilih_login():
 		print "\x1b[1;91mFill in correctly"
 		pilih_login()
         elif peak =="1":
-		Tech Aahilx()
+		Login()
 	elif peak =="2":
 		login1()
         elif peak =="3":
